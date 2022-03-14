@@ -1,5 +1,5 @@
-## '10 print' ()
+## '10 print' (bunch of forward and backward slashes)
 
-![image](https://user-images.githubusercontent.com/43304616/148159647-cc7a2c15-9519-4705-894f-879b5d2596f5.png)
+<img width="522" alt="Screen Shot 2022-01-15 at 10 12 43 PM" src="https://user-images.githubusercontent.com/43304616/150623256-06337590-3066-44da-9652-92f93cd1a2e1.png">
 
 Followed [this](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&t=346s) tutorial
